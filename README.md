@@ -47,7 +47,10 @@ The visualization_app.py module provides a Dash-based web interface featuring:
 
 ## Key System Capabilities
 <img width="720" alt="Screenshot 2025-06-04 at 2 57 41 PM" src="https://github.com/user-attachments/assets/0631ac42-5926-47a8-9e36-4da87658df34" />
+
 The system processes grid-based location analysis across Grand Forks, ND, evaluating approximately 400 potential sites with comprehensive feature engineering and predictive modeling.
+
+# Code Below
 
 ```
 # === PART 1: DATA COLLECTION SCRIPT (run once) ===
