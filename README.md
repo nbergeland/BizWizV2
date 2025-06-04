@@ -1025,7 +1025,7 @@ def main():
 if __name__ == '__main__':
     main()
 
-```
+
 # === INSTALLATION AND USAGE INSTRUCTIONS ===
 
 """
